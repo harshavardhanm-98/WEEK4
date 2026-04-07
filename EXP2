@@ -10,5 +10,6 @@ int main() {
         t1 = t2;
         t2 = nextTerm;
     }
+    printf("\nREG NO:25331A05I5");
     return 0;
 }
