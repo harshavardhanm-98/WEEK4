@@ -9,7 +9,6 @@ int main() {
         n = n / 10;
     }
     printf("Sum is = %d", sum);
+    printf("\nREG NO:25331A05I5");
     return 0;
 }
-
-
